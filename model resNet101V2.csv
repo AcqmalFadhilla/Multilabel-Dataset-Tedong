@@ -15,7 +15,7 @@ data/image/image_126.jpg,0,1,1,0,0
 data/image/image_1609.jpg,0,1,0,0,0
 data/image/image_535.jpg,0,1,1,0,0
 data/image/image_886.jpg,0,1,1,0,0
-data/image/image_1388.jpg,0,1,0,0,1
+data/image/image_1388.jpg,0,1,0,1,0
 data/image/image_908.jpg,0,1,1,0,1
 data/image/image_1590.jpg,0,1,1,0,0
 data/image/image_1647.jpg,0,1,1,0,0
@@ -33,9 +33,9 @@ data/image/image_162.jpg,0,1,0,0,0
 data/image/image_1638.jpg,0,1,1,0,0
 data/image/image_352.jpg,0,1,0,0,0
 data/image/image_1921.jpg,0,1,1,0,0
-data/image/image_1944.jpg,0,1,1,0,0
+data/image/image_1944.jpg,0,1,1,0,1
 data/image/image_684.jpg,0,1,1,0,0
-data/image/image_1474.jpg,0,1,1,1,0
+data/image/image_1474.jpg,0,1,0,1,0
 data/image/image_128.jpg,0,1,1,0,0
 data/image/image_994.jpg,0,1,1,0,0
 data/image/image_484.jpg,0,1,0,0,0
@@ -46,9 +46,9 @@ data/image/image_198.jpg,0,1,0,0,0
 data/image/image_1399.jpg,0,1,1,1,0
 data/image/image_414.jpg,0,1,0,0,0
 data/image/image_1930.jpg,0,1,1,0,0
-data/image/image_777.jpg,0,1,1,0,1
+data/image/image_777.jpg,0,1,1,0,0
 data/image/image_1942.jpg,0,1,1,0,0
-data/image/image_1822.jpg,0,1,1,0,0
+data/image/image_1822.jpg,0,1,1,0,1
 data/image/image_467.jpg,0,1,0,1,0
 data/image/image_1090.jpg,0,1,1,0,1
 data/image/image_1773.jpg,0,1,1,0,1
